@@ -28,7 +28,7 @@ Follow these steps to set up and run the project:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/recipe-app.git
+   git clone https://github.com/Utkarsh-kamra/Recipee-App.git
    cd recipe-app
    ```
 
@@ -47,7 +47,7 @@ Follow these steps to set up and run the project:
 4. **Start the development server:**
 
    ```sh
-   npm start  # or yarn start
+   npm run dev  # or yarn start
    ```
 
 ## Dependencies
