@@ -35,7 +35,7 @@ Follow these steps to set up and run the project:
 2. **Install dependencies:**
 
    ```sh
-   npm install  # or yarn install
+   npm install vite@latest  # or yarn install
    ```
 
 3. **Create a **``** file** in the root directory and add your Hugging Face API token:
